@@ -1,0 +1,29 @@
+{
+  "_comment": "Événements cités dans ses légendes Instagram. guests = nombre de convives (null = À REMPLIR, masqué).",
+  "items": [
+    { "id": "liel", "image": "/media/realisations/liel-yazamut-binyamina.jpg", "guests": null,
+      "type": { "he": "אירוע חברה", "en": "Corporate event", "fr": "Événement d’entreprise", "es": "Evento de empresa" },
+      "title": { "he": "ליאל יזמות", "en": "Liel Yazamut", "fr": "Liel Yazamut", "es": "Liel Yazamut" },
+      "place": { "he": "חוות סוסים, בנימינה", "en": "Horse ranch, Binyamina", "fr": "Ranch équestre, Binyamina", "es": "Rancho de caballos, Binyamina" } },
+    { "id": "el-nave", "image": "/media/evenements/ferme-tentes-jardin.jpg", "guests": null,
+      "type": { "he": "חתונה", "en": "Wedding", "fr": "Mariage", "es": "Boda" },
+      "title": { "he": "חתונה בחוות אל נווה", "en": "A wedding at Havat El Nave", "fr": "Un mariage à Havat El Nave", "es": "Una boda en Havat El Nave" },
+      "place": { "he": "חוות אל נווה", "en": "Havat El Nave", "fr": "Havat El Nave", "es": "Havat El Nave" } },
+    { "id": "kiryat-yam", "image": "/media/realisations/kiryat-yam.jpg", "guests": null,
+      "type": { "he": "אירוע עירייה", "en": "Municipal event", "fr": "Événement municipal", "es": "Evento municipal" },
+      "title": { "he": "עיריית קריית ים, פעם רביעית ברצף", "en": "Kiryat Yam municipality, fourth time running", "fr": "Mairie de Kiryat Yam, quatrième fois d’affilée", "es": "Municipio de Kiryat Yam, cuarta vez seguida" },
+      "place": { "he": "קריית ים", "en": "Kiryat Yam", "fr": "Kiryat Yam", "es": "Kiryat Yam" } },
+    { "id": "brit", "image": "/media/realisations/brit-buffet.jpg", "guests": null,
+      "type": { "he": "ברית", "en": "Brit milah", "fr": "Brit milah", "es": "Brit milá" },
+      "title": { "he": "בופה צהריים חגיגי", "en": "A festive lunch buffet", "fr": "Un buffet de midi festif", "es": "Un bufé de mediodía festivo" },
+      "place": { "he": "ישראל", "en": "Israel", "fr": "Israël", "es": "Israel" } },
+    { "id": "sifria", "image": "/media/realisations/anniversaire-pub.jpg", "guests": null,
+      "type": { "he": "יום הולדת", "en": "Birthday", "fr": "Anniversaire", "es": "Cumpleaños" },
+      "title": { "he": "פאב הספרייה", "en": "HaSifria pub", "fr": "Pub HaSifria", "es": "Pub HaSifria" },
+      "place": { "he": "הקריות", "en": "Haifa Krayot", "fr": "Krayot, Haïfa", "es": "Krayot, Haifa" } },
+    { "id": "rabbi-meir", "image": "/media/evenements/kever-rabbi-meir.jpg", "guests": null,
+      "type": { "he": "אירוע משפחתי", "en": "Family celebration", "fr": "Fête de famille", "es": "Celebración familiar" },
+      "title": { "he": "אירוע בקבר רבי מאיר", "en": "At the tomb of Rabbi Meir", "fr": "Au tombeau de Rabbi Meïr", "es": "En la tumba de Rabí Meir" },
+      "place": { "he": "טבריה", "en": "Tiberias", "fr": "Tibériade", "es": "Tiberíades" } }
+  ]
+}

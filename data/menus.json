@@ -1,0 +1,8 @@
+{
+  "_comment": "Menus types reconstitués d'après ses légendes Instagram (textes dans locales/*.json → menus.items). priceFrom = prix « à partir de » par personne en shekels ; null = « sur devis » (À REMPLIR avec Ben). minGuests idem.",
+  "items": [
+    { "id": "station", "image": "/media/evenements/station-tomahawks-jardin.jpg", "priceFrom": null, "minGuests": null },
+    { "id": "dinner", "image": "/media/evenements/assiettes-viandes.jpg", "priceFrom": null, "minGuests": null },
+    { "id": "summer", "image": "/media/viandes/entrecotes-ananas.jpg", "priceFrom": null, "minGuests": null }
+  ]
+}

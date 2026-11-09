@@ -1,0 +1,11 @@
+{
+  "_comment": "Bandeau d'infos pratiques en haut du site (fermable). active: false pour le masquer ; changer id quand le texte change (le bandeau réapparaît chez ceux qui l'avaient fermé).",
+  "active": true,
+  "id": "2027-dates",
+  "text": {
+    "he": "לוח האירועים של 2027 פתוח – בארץ ובחו״ל. תאריכי הקיץ נסגרים מהר.",
+    "en": "The 2027 calendar is open, in Israel and abroad. Summer dates go fast.",
+    "fr": "Le calendrier 2027 est ouvert, en Israël et à l’étranger. Les dates d’été partent vite.",
+    "es": "La agenda 2027 está abierta, en Israel y en el extranjero. Las fechas de verano vuelan."
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "title": "Private Chef for Exclusive Events in Israel & Worldwide | Ben Buskila",
+    "description": "Ben Buskila is a private chef who specialises in meat: chef's dinners at home, private and corporate events, and a chef who joins you at your villa, on your yacht or on holiday abroad. Book on WhatsApp +972 52-734-7626.",
+    "ogAlt": "Tomahawk steaks over charcoal, Ben Buskila private chef"
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "close": "Close",
+    "home": "Ben Buskila, home",
+    "experiences": "Experiences",
+    "destinations": "Destinations",
+    "events": "Events",
+    "about": "About",
+    "contact": "Contact",
+    "book": "Book the chef",
+    "bookShort": "Book",
+    "call": "Call",
+    "language": "Language"
+  },
+  "intro": { "skip": "Skip" },
+  "announce": { "close": "Close this notice" },
+  "hero": {
+    "eyebrow": "PRIVATE CHEF · EXCLUSIVE EVENTS · ISRAEL & WORLDWIDE",
+    "title": "Your private chef, wherever you are",
+    "text": "Fire, prime cuts and a long table. At home, in a villa, on a yacht or on holiday abroad.",
+    "cta": "Book the chef",
+    "secondary": "Destinations",
+    "video": "Steaks searing on the grill",
+    "bar": {
+      "label": "Check a date",
+      "date": "Date",
+      "place": "Place or country",
+      "placePlaceholder": "Caesarea, Limassol, Miami…",
+      "guests": "Guests",
+      "submit": "Book the chef"
+    }
+  },
+  "experiences": {
+    "eyebrow": "Experiences",
+    "title": "Four ways to take a seat",
+    "discover": "Discover",
+    "items": [
+      { "id": "dinner", "name": "Chef's dinner at home", "text": "Your home becomes a chef's restaurant for one night. A menu made for you, served at the table, and you don't lift a finger." },
+      { "id": "event", "name": "Private or corporate event", "text": "Birthdays, engagements, weddings, brit milah and company parties. Our boutique station arrives with the meat, the grill and the show." },
+      { "id": "travel", "name": "A chef who travels with you", "text": "A villa in Greece, a yacht in Dubai, a family trip to Mexico. The chef comes along and cooks there the way he does at home." },
+      { "id": "masterclass", "name": "Meat masterclass", "text": "Cutting, seasoning and the perfect doneness, right by the grill. For small groups, by arrangement." }
+    ]
+  },
+  "stats": {
+    "label": "Ben Buskila in numbers",
+    "destinations": "destinations",
+    "years": "years of experience",
+    "followers": "Instagram followers",
+    "events": "events",
+    "guests": "guests served"
+  },
+  "destinations": {
+    "eyebrow": "Destinations",
+    "title": "The table travels with you",
+    "text": "From Brazil to Dubai, from New York to Thailand. A few of the places Ben has already been. The next one could be yours.",
+    "cta": "Plan an event abroad",
+    "note": "Flights, accommodation and equipment are arranged ahead for every destination."
+  },
+  "menus": {
+    "eyebrow": "Menus",
+    "title": "Sample menus",
+    "text": "Every menu is rebuilt around the event, the season and your guests. These are starting points.",
+    "from": "From",
+    "perGuest": "per guest",
+    "onRequest": "Price on request",
+    "minGuests": "Minimum {n} guests",
+    "cta": "Build my menu",
+    "items": {
+      "station": {
+        "name": "The boutique station",
+        "text": "Ben's signature: prime cuts on the grill in front of your guests, with smoke, fire and a bit of theatre.",
+        "courses": ["Starters and salads", "8 cuts of meat on the grill", "Specials and sides", "Dessert and a seasonal fruit table"]
+      },
+      "dinner": {
+        "name": "Plated chef's dinner",
+        "text": "An intimate evening at home or in a villa, course after course, served at the table.",
+        "courses": ["Carpaccio and small plates", "Seasonal salad", "Prime cuts carved at the table", "Dessert"]
+      },
+      "summer": {
+        "name": "Summer menu",
+        "text": "Light and fresh: grilled fruit, colourful salads and meat made for the beach and the pool.",
+        "courses": ["Summer salads with fruit", "Fillet with caramelised pineapple", "Picanha and steak over charcoal", "Fruit on dry-ice smoke"]
+      }
+    }
+  },
+  "blocks": [
+    { "eyebrow": "The signature", "title": "Fire, embers and good meat", "text": "Ribeye, picanha, tomahawk and Angus fillet. The best produce he can find, the right cut and precise seasoning, straight from the coals to the plate.", "cta": "See the menus" },
+    { "eyebrow": "Worldwide", "title": "The chef who travels with you", "text": "A family holiday, a trip with friends or a weekend in a villa. Ben gets there before you, shops locally and sets up a kitchen anywhere, even on deck.", "cta": "Destinations" },
+    { "eyebrow": "Start to finish", "title": "A whole event, nothing to worry about", "text": "Menu, styled station, staff, equipment and service. From the flowers on the table to the last bite of dessert.", "cta": "Book the chef" }
+  ],
+  "events": {
+    "eyebrow": "Events",
+    "title": "A few recent events",
+    "text": "Weddings, company events, a brit milah and a birthday. Each one is built around the place and the people.",
+    "guests": "{n} guests",
+    "more": "More events on Instagram"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Ben Buskila",
+    "p1": "I'm a private chef who specialises in meat. For more than five years I've been cooking at events all over Israel, from ranches in the north to villas in the centre, and lately abroad too.",
+    "p2": "What matters to me: fresh, top-quality produce, plenty on the table, and the moment guests take the first bite and the show begins.",
+    "quote": "Love your work and you'll never have to work a day in your life.",
+    "cta": "Talk to me"
+  },
+  "how": {
+    "eyebrow": "How it works",
+    "title": "Four steps to the table",
+    "steps": [
+      { "title": "Your request", "text": "Fill in the form or send a WhatsApp message: date, place and number of guests." },
+      { "title": "A call and your own menu", "text": "We talk about the event, your tastes and your budget, then you get a menu built for you." },
+      { "title": "Getting ready", "text": "Shopping, equipment, staff and travel. Abroad, flights and accommodation too, all arranged ahead." },
+      { "title": "The chef cooks for you", "text": "Ben arrives, lights the fire and serves. You enjoy the evening with your guests." }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "Kind words",
+    "title": "Reviews",
+    "text": "Client reviews will be posted here soon. In the meantime, you can see the events themselves on Instagram.",
+    "cta": "Instagram"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Before you book",
+    "items": [
+      { "q": "How many guests do you cook for?", "a": "From an intimate dinner to large events. The minimum depends on the experience and the location; we'll check it together on the phone." },
+      { "q": "How does an event abroad work?", "a": "You usually cover the chef's flights and accommodation (and the team's, if needed). Shopping is done locally, and any special equipment is arranged ahead for each destination." },
+      { "q": "Is the food kosher?", "a": "You can ask for an event that follows kashrut. Tell us what you need in the form and we'll look at the options for your event." },
+      { "q": "Do you bring staff and service?", "a": "Yes, depending on the size of the event: kitchen assistants, waiters and set-up of a styled station. It's all spelled out in the quote." },
+      { "q": "Who takes care of shopping and equipment?", "a": "We do. Produce, grill, tableware and serving station. All you need is a place and hungry guests." },
+      { "q": "How do I secure a date?", "a": "Once the menu and price are agreed, the date is held with a deposit. Deposit details are in the quote." }
+    ]
+  },
+  "book": {
+    "eyebrow": "Booking",
+    "title": "Book the chef",
+    "text": "Tell us about your event. The summary goes out on WhatsApp and Ben gets back to you personally.",
+    "steps": { "experience": "The experience", "details": "Event details", "contact": "Your details" },
+    "fields": {
+      "experience": "Type of experience",
+      "experiences": { "dinner": "Chef's dinner at home", "event": "Event", "travel": "Chef abroad / on holiday", "masterclass": "Meat masterclass" },
+      "date": "Date",
+      "time": "Time",
+      "place": "Location (city or country)",
+      "placePlaceholder": "e.g. Herzliya, Limassol, Miami",
+      "guests": "Number of guests",
+      "prefs": "Preferences",
+      "prefsOptions": { "kosher": "Kosher", "meats": "Mostly meat", "restrictions": "Dietary restrictions" },
+      "prefsNote": "Preference details",
+      "prefsNotePlaceholder": "Vegetarians, allergies, favourite cuts…",
+      "budget": "Budget per guest",
+      "budgetPlaceholder": "e.g. ₪350",
+      "name": "Full name",
+      "phone": "Phone",
+      "message": "Message",
+      "messagePlaceholder": "Anything we should know",
+      "optional": "optional",
+      "dateTaken": "This date is already booked. Send anyway, we may find a way.",
+      "dateFree": "This date is still free."
+    },
+    "submit": "Send on WhatsApp",
+    "hint": "The form opens WhatsApp with a summary of your request. Nothing is charged at this stage.",
+    "required": "Required",
+    "invalidPhone": "This phone number doesn't look right",
+    "pickExperience": "Choose an experience",
+    "message": {
+      "title": "Private chef request – Ben Buskila",
+      "experience": "Experience",
+      "date": "Date",
+      "time": "Time",
+      "place": "Location",
+      "guests": "Guests",
+      "prefs": "Preferences",
+      "notes": "Details",
+      "budget": "Budget per guest",
+      "name": "Name",
+      "phone": "Phone",
+      "message": "Message",
+      "closing": "Thank you, looking forward to hearing from you."
+    },
+    "success": {
+      "thanks": "Thank you",
+      "title": "Your request is ready in WhatsApp",
+      "text": "If WhatsApp didn't open, tap the button again. Ben will get back to you shortly.",
+      "again": "Open WhatsApp",
+      "reset": "New request"
+    }
+  },
+  "footer": {
+    "tagline": "Private chef for exclusive events, in Israel and around the world.",
+    "contact": "Contact",
+    "explore": "On this site",
+    "area": "Israel and abroad",
+    "rights": "All rights reserved",
+    "legal": "Legal notice",
+    "photos": "Every photo comes from one of Ben's real events"
+  },
+  "legal": {
+    "title": "Legal notice",
+    "items": [
+      { "h": "Site owner", "p": "Ben Buskila, private chef. Phone +972 52-734-7626." },
+      { "h": "Hosting", "p": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, USA." },
+      { "h": "Privacy", "p": "This site doesn't store what you type. The form only prepares a WhatsApp message that you send yourself." },
+      { "h": "Photos", "p": "All photos and videos belong to Ben Buskila and may not be used without permission." }
+    ],
+    "back": "Back to home"
+  },
+  "whatsapp": {
+    "float": "Send a WhatsApp message",
+    "hello": "Hi Ben, I found you through your website and I'd like to hear about an event with a private chef."
+  },
+  "mobile": { "book": "Book the chef", "whatsapp": "WhatsApp" },
+  "alt": {
+    "tomahawks-braise": "Three tomahawk steaks on a charcoal grill",
+    "video-grill": "Steaks on the grill",
+    "pieces-crues-planches": "Fresh cuts of meat on wooden boards",
+    "entrecotes-persillees": "Well-marbled ribeye steaks",
+    "tomahawk-romarin": "Roasted tomahawk with rosemary",
+    "carre-agneau-planche": "Roasted rack of ribs on a board",
+    "carre-cotes-grille": "Rack of ribs on a grill rack",
+    "sauce-versee": "Sauce poured over roasted meat",
+    "tomahawk-couteau": "Roasted tomahawk next to a chef's knife",
+    "cote-grill": "Bone-in steak on the grill",
+    "flamme": "A tall flame over embers at night",
+    "picanha-tranchee": "Sliced picanha on a board",
+    "video-tranche": "Picanha being sliced on a board",
+    "entrecotes-ananas": "Raw ribeye steaks and a pineapple at the station",
+    "ferme-tentes-jardin": "A garden event under white tents",
+    "station-jardin": "Ben Buskila's boutique station in a garden",
+    "station-buffet-nuit": "Starters and meat station in the evening",
+    "station-tomahawks-jardin": "Meat station with tomahawks and pineapple in a garden",
+    "station-piscine-nuit": "The boutique station by a pool at night",
+    "station-terrasse": "Branded wooden station with meat on a terrace",
+    "table-entrees": "A table of starters before an event",
+    "buffet-entrees": "Starter buffet with carpaccio",
+    "assiettes-viandes": "Plates of sliced meat ready to serve",
+    "carpaccio": "Beef carpaccio with radish and pine nuts",
+    "salade-fruits-ete": "Summer salad with fruit and star fruit",
+    "houmous-viande": "Hummus topped with meat and herbs",
+    "salade-tomates": "Tomato salad on lettuce leaves",
+    "kever-rabbi-meir": "An event table set with balloons",
+    "video-station": "Station with fruit and dry ice",
+    "liel-yazamut-binyamina": "Fruit and dry ice at a corporate event in Binyamina",
+    "kiryat-yam": "Ben Buskila at his station during an event in Kiryat Yam",
+    "brit-buffet": "Lunch buffet for a brit milah with starters and breads",
+    "anniversaire-pub": "Meat station at HaSifria pub",
+    "ben-tablier": "Ben Buskila in his branded apron, carving meat",
+    "ben-evenement": "Ben Buskila at an outdoor event",
+    "ben-couteau": "Ben Buskila with a chef's knife",
+    "ben-station": "Ben Buskila at a meat station",
+    "ben-profil": "Ben Buskila preparing a dish",
+    "plage-cheval": "Ben riding a horse on a beach in Brazil",
+    "piscine-miami": "A pool facing the Miami skyline",
+    "hotel-limassol": "Pool and palm trees at a hotel in Limassol",
+    "palmiers-san-andres": "Palm trees by the sea in San Andrés",
+    "route-palmiers": "A palm-lined road in Colombia",
+    "new-york": "Ben in New York",
+    "plage-thailande": "A palm tree over a white beach in Thailand",
+    "isla-mujeres": "Wooden pier at Isla Mujeres, Mexico",
+    "dubai-marina": "Ben at Dubai Marina"
+  }
+}
