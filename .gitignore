@@ -55,3 +55,6 @@ next-env.d.ts
 /assets/frames/
 /assets/raw/_all-posts.json
 *.tsbuildinfo
+
+.vercel
+.env*
